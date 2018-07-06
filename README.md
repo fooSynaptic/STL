@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 
-This repository help me understand about the iterator and standard template lib.
+This repository help me understand about the algorithms, containers, functions, and iterators (standard template lib).
 
 三十分钟掌握STL
 
