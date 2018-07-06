@@ -1,6 +1,9 @@
 <<<<<<< HEAD
 
+This repository help me understand about the iterator and standard template lib.
+
 三十分钟掌握STL
+
 这是本小人书。原名是《using stl》，不知道是谁写的。不过我倒觉得很有趣，所以化了两个晚上把它翻译出来。我没有对翻译出来的内容校验过。如果你没法在三十分钟内觉得有所收获，那么赶紧扔了它。文中我省略了很多东西。心疼那，浪费我两个晚上。
 译者：kary
 
